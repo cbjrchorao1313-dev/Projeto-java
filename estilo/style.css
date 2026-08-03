@@ -1,0 +1,19 @@
+{
+front-family: arial, helvetica, sans-serif;
+front-size: 16px;
+
+}
+body {
+
+background-color: aquamarine;
+
+}
+
+main {
+
+background-color: beige;
+vidth: 500px;
+margint: auto;
+padding: 10px;
+box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+}
