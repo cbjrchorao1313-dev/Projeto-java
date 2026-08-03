@@ -9,6 +9,9 @@ background-color: aquamarine;
 
 }
 
+img.lado {
+    float: right;
+}
 main {
 
 background-color: beige;
